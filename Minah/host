@@ -4,27 +4,34 @@
 #
 # Custom host records are listend here
 
-0.0.0.0 laodong.vn
-0.0.0.0 lazada.vn
-
-
+#
+# Social Network
+#
 
 # Facebook
 # Meta API Server
+0.0.0.0 web.facebook.com
 0.0.0.0 graph.facebook.com 
 0.0.0.0 api.facebook.com
 0.0.0.0 b-api.facebook.com
 0.0.0.0 b-graph.facebook.com
-
+0.0.0.0 fb.com
+0.0.0.0 fb.me
+0.0.0.0 facebook.net
+0.0.0.0 z-m-gateway.facebook.com
 # Facebook CDN and Watch
-fbcdn.net 
-fbsbx.com
-fb.watch 
-
+0.0.0.0 fbcdn.net 
+0.0.0.0 fbsbx.com
+0.0.0.0 fb.watch 
+0.0.0.0 connect.facebook.net
 # Real-time & Notifications
 0.0.0.0 edge-mqtt.facebook.com
 0.0.0.0 mqtt-mini.facebook.com
 0.0.0.0 star-mini.c10r.facebook.com
+
+# Messenger
+0.0.0.0 www.messenger.com
+0.0.0.0 edge-chat.facebook.com
 
 #
 
@@ -39,3 +46,112 @@ fb.watch
 0.0.0.0 youtubei.googleapis.com
 0.0.0.0 ytimg.com 
 0.0.0.0 googlevideo.com
+
+#
+
+# Shopping
+0.0.0.0 shoppe.vn
+0.0.0.0 lazada.vn
+
+# Entertaiment
+0.0.0.0
+
+# Chat
+
+# Zalo
+0.0.0.0 zalo.me
+0.0.0.0 reaction.chat.zalo.me
+0.0.0.0 log.api.zaloapp.com
+0.0.0.0 chat.zalo.me
+
+
+# Tiktok
+0.0.0.0 tiktok.com
+0.0.0.0 tiktokcdn.com
+0.0.0.0 tiktokv.com
+0.0.0.0 byteoversea.com
+0.0.0.0 ibyteimg.com 
+0.0.0.0 ibytedtos.com
+0.0.0.0 snssdk.com 
+0.0.0.0 amemv.com
+0.0.0.0 musical.ly
+0.0.0.0 log.tiktokv.com
+0.0.0.0 api.tiktokv.com
+0.0.0.0 v16a.tiktokcdn.com 
+0.0.0.0 v19.tiktokcdn.com
+0.0.0.0 p16-tiktokcdn-com.akamaized.net 
+0.0.0.0 mon.tiktokv.com
+
+
+0.0.0.0 instagram.com
+0.0.0.0 threads.com
+0.0.0.0 line.me
+0.0.0.0 twitter.com
+0.0.0.0 x.com
+0.0.0.0 pinterest.com
+0.0.0.0 telegram.org
+0.0.0.0 whatsapp.com
+0.0.0.0 viber.com
+0.0.0.0 wechat.com
+0.0.0.0 zing.vn
+0.0.0.0 fptplay.vn
+0.0.0.0 vieon.vn
+0.0.0.0 galaxyplay.vn
+0.0.0.0 bongdaplus.vn
+0.0.0.0 24h.com.vn
+0.0.0.0 thethao247.vn
+0.0.0.0 TV360.vn
+0.0.0.0 vtv.vn
+0.0.0.0 vtvgo.vn
+0.0.0.0 zingmp3.vn
+0.0.0.0 nhaccuatui.com
+0.0.0.0 spotify.com
+0.0.0.0 waka.vn
+0.0.0.0 nettruyen.vn
+0.0.0.0 truyenyy.com
+0.0.0.0 gamek.vn
+0.0.0.0 y8.com
+0.0.0.0 gamevui.vn
+0.0.0.0 miniclip.com
+0.0.0.0 tranggame.net
+0.0.0.0 game24h.vn
+0.0.0.0 yepi.com
+0.0.0.0 VietnamWorks.com
+0.0.0.0 TopCV.vn
+0.0.0.0 CareerBuilder.vn
+0.0.0.0 TimViecNhanh.com
+0.0.0.0 Vieclam24h.vn
+0.0.0.0 JobStreet.vn
+0.0.0.0 linkedin.com
+0.0.0.0 bong88.com
+0.0.0.0 fun88kyc.com
+0.0.0.0 w88abc.com
+0.0.0.0 88bet.hiphop
+0.0.0.0 tcc.eu.com
+0.0.0.0 cobypic.com
+0.0.0.0 bet88ec.com
+0.0.0.0 dafabet.com
+0.0.0.0 address.uk.com
+0.0.0.0 fabet.com
+0.0.0.0 phimmoichill.bot
+0.0.0.0 phimmoiz.cc
+0.0.0.0 phimmoi.net
+0.0.0.0 phimbathux.pro
+0.0.0.0 bilutvk.com
+0.0.0.0 bilutvr.pro
+0.0.0.0 cliptv.vn
+0.0.0.0 tvhay.io
+0.0.0.0 xemphimso.tv
+0.0.0.0 hotphim.pro
+0.0.0.0 animevietsub.cam
+0.0.0.0 netflix.com
+0.0.0.0 apps.microsoft.com
+
+
+
+
+
+
+
+
+
