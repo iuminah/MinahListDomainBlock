@@ -1,8 +1,8 @@
 # Name: MinahListDomainBlock
 # 
-# Custom host records are listend here
+# Fetch the lastest version of this file : https://raw.githubusercontent.com/iuminah/MinahListDomainBlock/refs/heads/main/Minah/host
 #
-# Fetch the lastest version of this file : 
-
+# Custom host records are listend here
 
 0.0.0.0 laodong.vn
+0.0.0.0 lazada.vn
