@@ -6,3 +6,36 @@
 
 0.0.0.0 laodong.vn
 0.0.0.0 lazada.vn
+
+
+
+# Facebook
+# Meta API Server
+0.0.0.0 graph.facebook.com 
+0.0.0.0 api.facebook.com
+0.0.0.0 b-api.facebook.com
+0.0.0.0 b-graph.facebook.com
+
+# Facebook CDN and Watch
+fbcdn.net 
+fbsbx.com
+fb.watch 
+
+# Real-time & Notifications
+0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 mqtt-mini.facebook.com
+0.0.0.0 star-mini.c10r.facebook.com
+
+#
+
+# Youtube
+# video load on App
+0.0.0.0 youtubei.googleapis.com 
+0.0.0.0 googlevideo.com
+0.0.0.0 ytimg.com
+0.0.0.0 youtu.be
+
+# Main data
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 ytimg.com 
+0.0.0.0 googlevideo.com
