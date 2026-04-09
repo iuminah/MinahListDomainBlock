@@ -43,15 +43,59 @@
 0.0.0.0 youtu.be
 
 # Main data
-0.0.0.0 youtubei.googleapis.com
 0.0.0.0 ytimg.com 
-0.0.0.0 googlevideo.com
 
 #
 
 # Shopping
 0.0.0.0 shoppe.vn
 0.0.0.0 lazada.vn
+0.0.0.0 tiki.vn
+0.0.0.0 sendo.vn
+0.0.0.0 chotot.com
+0.0.0.0 taobao.com
+0.0.0.0 alibaba.com
+0.0.0.0 amazon.com
+0.0.0.0 etsy.com
+0.0.0.0 ebay.com
+0.0.0.0 1688.com
+0.0.0.0 aliexpress.com
+0.0.0.0 thegioididong.com
+0.0.0.0 fptshop.com.vn
+0.0.0.0 dienmayxanh.com
+0.0.0.0 cellphones.com.vn
+0.0.0.0 hoanghamobile.com
+0.0.0.0 nguyenkim.com
+0.0.0.0 phongvu.vn
+0.0.0.0 gearvn.com
+0.0.0.0 mobilecity.vn
+0.0.0.0 viamobile.com.vn
+0.0.0.0 phucanh.vn
+0.0.0.0 anphatpc.com.vn
+0.0.0.0 hasaki.vn
+0.0.0.0 watsons.vn
+0.0.0.0 guardian.com.vn
+0.0.0.0 vascara.com
+0.0.0.0 juno.vn
+0.0.0.0 canifa.com
+0.0.0.0 coolmate.me
+0.0.0.0 yame.vn
+0.0.0.0 chiaki.vn
+0.0.0.0 pharmacity.vn
+0.0.0.0 nhathuoclongchau.com.vn
+0.0.0.0 winmart.vn
+0.0.0.0 concung.com
+0.0.0.0 kidsplaza.vn
+0.0.0.0 bibomart.com.vn
+0.0.0.0 aeoneshop.com
+0.0.0.0 lottemart.vn
+0.0.0.0 pnj.com.vn
+0.0.0.0 doji.vn
+0.0.0.0 baya.vn
+0.0.0.0 jysk.vn
+0.0.0.0 fahasa.com
+0.0.0.0 pusw.com
+0.0.0.0 vexere.com
 
 # Entertaiment
 0.0.0.0
@@ -63,7 +107,17 @@
 0.0.0.0 reaction.chat.zalo.me
 0.0.0.0 log.api.zaloapp.com
 0.0.0.0 chat.zalo.me
-
+0.0.0.0 zalo-api.zadn.vn
+0.0.0.0 apns-failover.zaloapp.com
+0.0.0.0 discovery.api.zaloapp.com
+0.0.0.0 getpage.api.zaloapp.com
+0.0.0.0 zalo-effect.zadn.vn
+0.0.0.0 api.zalo.video
+0.0.0.0 msearch-api.zaloapp.com
+0.0.0.0 res-zalo.zadn.vn
+0.0.0.0 broadcast.api.zaloapp.com
+0.0.0.0 zvoip-qos.zaloapp.com
+0.0.0.0 al.zalo.video
 
 # Tiktok
 0.0.0.0 tiktok.com
@@ -95,7 +149,6 @@
 0.0.0.0 pull-f5-sg01.tiktokrow-cdn.com
 0.0.0.0 pull-flv-l11-sg01.tiktokcdn.com
 0.0.0.0 pull-flv-l1-sg01.tiktokcdn.com
-0.0.0.0 sf9-ies-music-sg.tiktokcdn.com
 
 0.0.0.0 instagram.com
 0.0.0.0 threads.com
@@ -108,15 +161,9 @@
 0.0.0.0 viber.com
 0.0.0.0 wechat.com
 0.0.0.0 zing.vn
-0.0.0.0 fptplay.vn
-0.0.0.0 vieon.vn
-0.0.0.0 galaxyplay.vn
 0.0.0.0 bongdaplus.vn
 0.0.0.0 24h.com.vn
 0.0.0.0 thethao247.vn
-0.0.0.0 TV360.vn
-0.0.0.0 vtv.vn
-0.0.0.0 vtvgo.vn
 0.0.0.0 zingmp3.vn
 0.0.0.0 nhaccuatui.com
 0.0.0.0 spotify.com
@@ -147,26 +194,61 @@
 0.0.0.0 dafabet.com
 0.0.0.0 address.uk.com
 0.0.0.0 fabet.com
+0.0.0.0 apps.microsoft.com
+
+# film
+0.0.0.0 netflix.com
 0.0.0.0 phimmoichill.bot
 0.0.0.0 phimmoiz.cc
 0.0.0.0 phimmoi.net
 0.0.0.0 phimbathux.pro
 0.0.0.0 bilutvk.com
 0.0.0.0 bilutvr.pro
-0.0.0.0 cliptv.vn
 0.0.0.0 tvhay.io
 0.0.0.0 xemphimso.tv
 0.0.0.0 hotphim.pro
 0.0.0.0 animevietsub.cam
-0.0.0.0 netflix.com
 0.0.0.0 voz.vn
-0.0.0.0 apps.microsoft.com
-
-
-
-
-
-
-
-
-
+0.0.0.0 fptplay.vn
+0.0.0.0 vieon.vn
+0.0.0.0 galaxyplay.vn
+0.0.0.0 TV360.vn
+0.0.0.0 vtv.vn
+0.0.0.0 vtvgo.vn
+0.0.0.0 vtvgiaitri.vn
+0.0.0.0 iq.com
+0.0.0.0 wetv.vip
+0.0.0.0 cliptv.vn
+0.0.0.0 pops.vn
+0.0.0.0 zing.tv
+0.0.0.0 anime47.com
+0.0.0.0 vuviphim.com
+0.0.0.0 bilibili.tv
+0.0.0.0 crunchyroll.com
+0.0.0.0 studyphim.vn
+0.0.0.0 studymovie.net
+0.0.0.0 motchilli.com
+0.0.0.0 phimmoiy.net
+0.0.0.0 tvhay.org
+0.0.0.0 subnhanh.net
+0.0.0.0 bilutv.me
+0.0.0.0 hdo.tv
+0.0.0.0 fullphim.net
+0.0.0.0 xemphim.vip
+0.0.0.0 phimchill.tv
+0.0.0.0 hayghe.tv
+0.0.0.0 vaophim.org
+0.0.0.0 dongphym.net
+0.0.0.0 vkool.net
+0.0.0.0 xuviphim.com
+0.0.0.0 2ix.me
+0.0.0.0 nettv.com
+0.0.0.0 primevideo.com
+0.0.0.0 mubi.com
+0.0.0.0 viki.com
+0.0.0.0 tubi.tv
+0.0.0.0 imdb.com
+0.0.0.0 plex.tv
+0.0.0.0 kanopy.com
+0.0.0.0 popcornflix.com
+0.0.0.0 vudu.com
