@@ -28,6 +28,8 @@
 0.0.0.0 edge-mqtt.facebook.com
 0.0.0.0 mqtt-mini.facebook.com
 0.0.0.0 star-mini.c10r.facebook.com
+0.0.0.0 facebook.com
+0.0.0.0 www.facebook.com
 
 # Messenger
 0.0.0.0 www.messenger.com
@@ -41,6 +43,8 @@
 0.0.0.0 googlevideo.com
 0.0.0.0 ytimg.com
 0.0.0.0 youtu.be
+0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
 
 # Main data
 0.0.0.0 ytimg.com 
