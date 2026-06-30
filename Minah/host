@@ -122,6 +122,7 @@
 0.0.0.0 broadcast.api.zaloapp.com
 0.0.0.0 zvoip-qos.zaloapp.com
 0.0.0.0 al.zalo.video
+# Updated 20260630
 0.0.0.0 wpa.zalo.me
 0.0.0.0 channel-zinstant.api.zaloapp.com
 0.0.0.0 fe-gr-chat.zalo.me
@@ -135,6 +136,7 @@
 0.0.0.0 sp.zalo.me
 0.0.0.0 setting.api.zaloapp.com
 0.0.0.0 system2-zinstant.api.zaloapp.com
+
 # Tiktok
 0.0.0.0 tiktok.com
 0.0.0.0 tiktokcdn.com
