@@ -30,6 +30,11 @@
 0.0.0.0 star-mini.c10r.facebook.com
 0.0.0.0 facebook.com
 0.0.0.0 www.facebook.com
+0.0.0.0 instagram.com
+0.0.0.0 i.instagram.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 i-fallback.instagram.com
+
 
 # Messenger
 0.0.0.0 www.messenger.com
@@ -45,6 +50,9 @@
 0.0.0.0 youtu.be
 0.0.0.0 youtube.com
 0.0.0.0 www.youtube.com
+0.0.0.0 accounts.youtube.com
+0.0.0.0 www.accounts.youtube.com
+
 
 # Main data
 0.0.0.0 ytimg.com 
@@ -59,6 +67,9 @@
 0.0.0.0 sendo.vn
 0.0.0.0 chotot.com
 0.0.0.0 taobao.com
+0.0.0.0 sjarvis.taobao.com
+0.0.0.0 h5.m.taobao.com
+0.0.0.0 mdap.alipay.com
 0.0.0.0 alibaba.com
 0.0.0.0 amazon.com
 0.0.0.0 etsy.com
@@ -280,4 +291,9 @@
 0.0.0.0 voicecall-wpa.chat.zalo.me
 0.0.0.0 label-wpa.chat.zalo.me
 0.0.0.0 accounts.youtube.com
- 
+
+
+
+#20260819
+0.0.0.0 tb.ele.me
+0.0.0.0 acs.tao.co
