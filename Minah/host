@@ -984,6 +984,16 @@
 0.0.0.0 zingmp3.vn
 0.0.0.0 nhaccuatui.com
 0.0.0.0 spotify.com
+0.0.0.0 www.spotify.com
+0.0.0.0 spclient.wg.spotify.com
+0.0.0.0 apresolve.spotify.com
+0.0.0.0 wg.spotify.com
+0.0.0.0 beta.spotify.map.fastly.net
+0.0.0.0 t.scdn.co
+0.0.0.0 i.scdn.co
+0.0.0.0 app.adjust.com
+0.0.0.0 heads-fa.spotify.com
+0.0.0.0 audio-fac.spotify.com
 0.0.0.0 waka.vn
 0.0.0.0 nettruyen.vn
 0.0.0.0 truyenyy.com
